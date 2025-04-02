@@ -1,0 +1,16 @@
+
+Hi Hiring Manager/Recruiter,
+
+I am excited to apply for the Data Engineer position at Atlassian. With seven years of experience in end-to-end data engineering, I have worked across business and delivery teams, as well as platform teams, focusing on development, enhancement, building new modules, and leading production support across all time shifts.
+
+My expertise spans designing and optimizing data warehouses, creating Data Marts, implementing Slowly Changing Dimensions on enterprise platforms, and architecting scalable data pipelines using PySpark. I have performed extensive PySpark optimizations using Ganglia for performance tuning, ensuring efficient data processing. Additionally, I have successfully resolved API throttling challenges, a common industry-wide issue, optimizing CloudWatch and EMR API interactions. I also addressed RDS contention issues, ensuring optimal database performance.
+
+My AWS expertise includes S3, EC2, EMR, Glue, Lambda, IAM, Athena, and KMS, leveraging these services for data ingestion, transformation, and storage. I have executed multiple POCs, including Hudi for incremental data processing, Redshift for analytical workloads, and CI/CD pipelines to streamline deployment. Additionally, I developed ingestion pipelines utilizing urllib for efficient data retrieval and processing.
+
+Atlassian's commitment to innovation and seamless collaboration aligns perfectly with my approach to scalable data solutions. I am eager to bring my expertise in AWS, PySpark, and data engineering to drive impactful insights and efficiencies within your team.
+
+I would welcome the opportunity to discuss how my experience aligns with Atlassian’s needs. Thank you for your time and consideration.
+
+Thanks,
+Prakhar Vishnoi
+8837702899

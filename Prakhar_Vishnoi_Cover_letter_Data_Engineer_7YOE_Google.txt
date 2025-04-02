@@ -1,0 +1,17 @@
+Hi Hiring Manager/Recruiter,
+
+I am excited to apply for the Big Data Engineer position at Google in Bangalore. With seven years of comprehensive experience in data engineering, I have developed and optimized scalable data solutions, working across business, delivery, and platform teams. My expertise includes designing data warehouses, creating Data Marts, implementing Slowly Changing Dimensions, and leading production support across all time shifts.
+
+AWS and Cloud Expertise: I have extensive experience with AWS services such as S3, EC2, EMR, RDS, Athena, Glue, Lambda, KMS, and IAM. I have successfully resolved industry-wide challenges like API throttling in CloudWatch and EMR, as well as RDS contention issues, ensuring system reliability and efficiency. Additionally, I have conducted Proof of Concepts (POCs) involving technologies like Hudi for incremental data processing, Redshift integration with Athena, and CI/CD pipeline automation.
+
+PySpark Optimization: Proficient in PySpark, I have optimized large-scale data pipelines using Ganglia for performance tuning, enhancing processing efficiency and resource utilization.
+
+Data Warehousing: My experience encompasses designing and implementing data warehouses, developing Data Marts, and applying Slowly Changing Dimensions on enterprise platforms to support analytical workloads.
+
+Alignment with Google's Mission: Google's mission to organize the world's information and make it universally accessible and useful resonates deeply with me. My background in building scalable data architectures and optimizing data processing aligns with Google's commitment to innovation and excellence. I am eager to contribute my skills and experience to Google's data engineering initiatives, driving impactful insights and efficiencies within your team.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my expertise can contribute to Google's success.
+
+Thanks,
+Prakhar Vishnoi
+8837702899
